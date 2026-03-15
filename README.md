@@ -7,7 +7,7 @@
 ## 🏗️ What I'm Building Now (Developer Mode)
 I am currently in an aggressive 0-to-1 building phase with **Mediafier**, leading the technical architecture and development for an "agentic media factory." 
 
-I am a strong advocate for high-velocity, AI-assisted engineering. Over a recent 7.5-month stealth sprint, my co-developer and I pushed over 7,000 commits by deeply integrating AI pair programming (Lovable.dev and Anthropic's Claude) into our daily workflow. 
+I am a strong advocate for high-velocity, AI-assisted engineering. Over a recent 7.5-month stealth sprint, my co-developer and I pushed over 7,000 commits by deeply integrating AI pair programming (Anthropic's Claude Code and OpenAI's Codex) into our daily workflow. 
 
 **My Current Tech Stack & Focus Areas:**
 * **Languages & Frameworks:** TypeScript, Vercel
