@@ -5,7 +5,7 @@
 [cite_start]I am a builder, multi-time founder, and CEO with over 20 years of experience scaling AI, consumer tech, and SaaS platforms[cite: 4]. I believe the best technical leaders never stop coding. While my public GitHub might look quiet, my private contribution graph reflects an intense, hands-on building phase.
 
 ## 🏗️ What I'm Building Now (Developer Mode)
-I am currently in an aggressive 0-to-1 building phase with **Mediafier**, leading the technical architecture and development for applications like **PippaCrew** and **PermitLM**. 
+I am currently in an aggressive 0-to-1 building phase with **Mediafier**, leading the technical architecture and development for an "agentic media factory." 
 
 I am a strong advocate for high-velocity, AI-assisted engineering. Over a recent 7.5-month stealth sprint, my co-developer and I pushed over 7,000 commits by deeply integrating AI pair programming (Lovable.dev and Anthropic's Claude) into our daily workflow. 
 
