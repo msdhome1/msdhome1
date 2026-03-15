@@ -5,9 +5,9 @@
 [cite_start]I am a builder, multi-time founder, and CEO with over 20 years of experience scaling AI, consumer tech, and SaaS platforms[cite: 4]. I believe the best technical leaders never stop coding. While my public GitHub might look quiet, my private contribution graph reflects an intense, hands-on building phase.
 
 ## 🏗️ What I'm Building Now (The Developer)
-I am currently in an aggressive 0-to-1 building phase with **Mediafier**, leading the technical architecture and development for applications related to an "agentic media factory." 
+I am currently in an aggressive 0-to-1 building phase with **Mediafier**, leading the technical architecture and development for applications like **PippaCrew** and **PermitLM**. 
 
-I am a strong advocate for high-velocity, AI-assisted engineering. Over a recent 7.5-month stealth sprint, my co-developer and I pushed over 7,000 commits by deeply integrating AI pair programming (OpenAI's Codex and Anthropic's Claude) into our daily workflow. 
+I am a strong advocate for high-velocity, AI-assisted engineering. Over a recent 7.5-month stealth sprint, my co-developer and I pushed over 7,000 commits by deeply integrating AI pair programming (Lovable.dev and Anthropic's Claude) into our daily workflow. 
 
 **My Current Tech Stack & Focus Areas:**
 * **Languages & Frameworks:** TypeScript, Vercel
@@ -16,7 +16,7 @@ I am a strong advocate for high-velocity, AI-assisted engineering. Over a recent
 * **DevOps:** Automated CI/CD pipelines via GitHub Actions
 * **Workflow:** AI-assisted code generation, multi-agent architectures, and rapid prototyping
 
-## 🚀 Executive & Founder Track Record
+## 🚀 Executive & Founder Track Record (The Leader)
 Before diving into my current codebase, I spent two decades driving strategic transactions and building platforms across AI, consumer tech, and digital media:
 
 * [cite_start]**Remix AI (Co-founder, CEO):** Launched an autonomous, multi-agent GenAI video and image platform that scaled to 1M+ users and 40M+ creations[cite: 10, 13, 16]. [cite_start]Raised seed financing from prominent VCs and strategic angels (OpenAI, Meta, Uber execs)[cite: 15].
